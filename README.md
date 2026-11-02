@@ -18,7 +18,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,aws,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,aws,vscode,tensorflow" />
 </p>
 
 ## 📊 GitHub Statistics
@@ -28,11 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudarshanChakra11&theme=tokyonight" height="165"/>
 </p>
 
-## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanChakra11&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 🔗 Connect With Me
 
@@ -42,6 +38,9 @@
   </a>
   <a href="https://github.com/SudarshanChakra11">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/sudarshanshelke_002/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
 </p>
 
